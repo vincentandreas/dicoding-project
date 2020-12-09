@@ -1,0 +1,31 @@
+#countryConfirm{
+    color: darkblue;
+}
+
+#countryRecover{
+    color:chartreuse;
+}
+
+#countryDeath{
+    color: red;
+}
+
+.numberData{
+    font-size: 60pt;
+    display: none;
+}
+.dataDescription{
+    font-size: 20pt;
+    text-align: center;
+}
+
+.divData{
+    float: left;
+    margin: 20px;
+}
+.dataDescription{
+    display:none;
+}
+#countryName{
+    display: none;
+}
