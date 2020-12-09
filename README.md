@@ -1,6 +1,8 @@
 This project was made for the Dicoding project asssignment.
 
 # COVID-19 Monitoring
+
+![Alt text](blob/image/Capture.JPG?raw=true "Preview")
 This project was made to find the Covid-19 cases based on country, built with html and javascript.
 How to start project:
 
